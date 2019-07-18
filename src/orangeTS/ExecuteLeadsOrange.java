@@ -20,7 +20,7 @@ public class ExecuteLeadsOrange {
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		
-			//	System.setProperty("webdriver.chrome.driver","F:\\tci\\relatative files\\chromedriver.exe");
+			//	System.setProperty("webdriver.chrome.driver","tci\\relatative files\\chromedriver.exe");
 				System.setProperty("webdriver.gecko.driver", "C:\\geckodriver.exe");					
 				WebDriver driver;
 				driver=new FirefoxDriver();
